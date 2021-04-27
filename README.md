@@ -40,4 +40,13 @@ AS A developer who writes about tech
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ```
-## deployed link
+
+## Screen shot
+![Main Page](/images/TechBlog.PNG)  
+
+## deployed Heroku link
+
+https://techblog06.herokuapp.com/
+
+## Questions
+​If you have any questions about the repo, open an issue or contact me directly at manuelybarra2006@yahoo.com. You can find more of my work at https://github.com/mybarra06.
